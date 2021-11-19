@@ -1,0 +1,13 @@
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\obj\Debug\netcoreapp3.1\UDP_SocketExample.csprojAssemblyReference.cache
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\obj\Debug\netcoreapp3.1\UDP_SocketExample.AssemblyInfoInputs.cache
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\obj\Debug\netcoreapp3.1\UDP_SocketExample.AssemblyInfo.cs
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\obj\Debug\netcoreapp3.1\UDP_SocketExample.csproj.CoreCompileInputs.cache
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\bin\Debug\netcoreapp3.1\UDP_SocketExample.exe
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\bin\Debug\netcoreapp3.1\UDP_SocketExample.deps.json
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\bin\Debug\netcoreapp3.1\UDP_SocketExample.runtimeconfig.json
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\bin\Debug\netcoreapp3.1\UDP_SocketExample.runtimeconfig.dev.json
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\bin\Debug\netcoreapp3.1\UDP_SocketExample.dll
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\bin\Debug\netcoreapp3.1\UDP_SocketExample.pdb
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\obj\Debug\netcoreapp3.1\UDP_SocketExample.dll
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\obj\Debug\netcoreapp3.1\UDP_SocketExample.pdb
+C:\Users\emrhe\source\repos\UDP_SocketExample\UDP_SocketExample\obj\Debug\netcoreapp3.1\UDP_SocketExample.genruntimeconfig.cache

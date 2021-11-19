@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP_SocketExample", "UDP_SocketExample\UDP_SocketExample.csproj", "{6BB7EB22-CF4B-4B59-85DE-5C722863645E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP_SocketExample_Core", "UDP_SocketExample_Core\UDP_SocketExample_Core.csproj", "{C02F2791-53AF-4800-A1F5-04CB1DF06F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB7EB22-CF4B-4B59-85DE-5C722863645E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB7EB22-CF4B-4B59-85DE-5C722863645E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB7EB22-CF4B-4B59-85DE-5C722863645E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB7EB22-CF4B-4B59-85DE-5C722863645E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02F2791-53AF-4800-A1F5-04CB1DF06F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02F2791-53AF-4800-A1F5-04CB1DF06F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02F2791-53AF-4800-A1F5-04CB1DF06F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02F2791-53AF-4800-A1F5-04CB1DF06F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14698EBE-A084-4426-9EC8-5CBB8D8713CF}
+	EndGlobalSection
+EndGlobal
