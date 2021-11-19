@@ -1,1 +1,1 @@
-# UDP Socket Example
+# Socket Example - UDP (User Datagram Protocol)
